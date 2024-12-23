@@ -47,4 +47,4 @@ The project uses the [MovieLens Dataset](https://grouplens.org/datasets/movielen
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/movie-recommendation-system.git
+   https://github.com/username/movie-recommendation-system.git](https://github.com/Havishitha/Movie-Recommendation-System-using-Machine-Learning
